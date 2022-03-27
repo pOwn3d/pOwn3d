@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+
+
 <!--
 **pOwn3d/pOwn3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
