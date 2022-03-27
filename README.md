@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
+![Cover](https://github.com/pOwn3d/pOwn3d/blob/main/img/cover.png)
 
 
 <!--
