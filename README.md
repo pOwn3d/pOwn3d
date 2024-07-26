@@ -2,11 +2,6 @@
 
 ![Cover](https://github.com/pOwn3d/pOwn3d/blob/main/img/cover.png)
 
-
-
-
-
-
 ---
 
 ## 🌟 À propos de moi
@@ -28,16 +23,22 @@ En tant que développeur Full Stack, je jongle avec JS, React, PHP, et Symfony a
   - Symfony
   - TailwindCSS
   - TinaCMS
-- **BDD :**
+  - VueJS
+  - Angular
+  - Bootstrap
+- **Bibliothèques et Outils :**
+  - Node.js
+  - ApiPlatform
+  - ExpoJS (en formation pour créer des applications mobiles hybrides)
+- **Bases de données :**
   - MongoDB
-  - Mysql
+  - MySQL
 - **Rôles :**
   - Développeur Full Stack
   - Chef de projet
   - Mentor sur Openclassroom
 
 ---
-
 
 ## 🏆 Réalisations et Contributions
 
@@ -56,7 +57,7 @@ En tant que développeur Full Stack, je jongle avec JS, React, PHP, et Symfony a
 
 ## 📫 Me contacter
 
-- **LinkedIn :** [Christophe Lopez]([https://www.linkedin.com/christopheLopez](https://www.linkedin.com/in/christophe-lopez/)
+- **LinkedIn :** [Christophe Lopez](https://www.linkedin.com/in/christophe-lopez/)
 
 ---
 
