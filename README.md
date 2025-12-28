@@ -67,7 +67,9 @@ const christophe = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pOwn3d&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=pOwn3d&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
+  </a>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
@@ -87,22 +89,21 @@ const christophe = {
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/pOwn3d/Mon-panier">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=Mon-panier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/pOwn3d/HA_IFRAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=HA_IFRAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/pOwn3d/GitSnap">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=GitSnap&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/pOwn3d/KIDS_EXPO">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=KIDS_EXPO&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/pOwn3d/panneau-solaire-pwa">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=panneau-solaire-pwa&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/pOwn3d/CUISINE_OMEGA">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=CUISINE_OMEGA&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/pOwn3d/BOOKY_OC">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=BOOKY_OC&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
+
+> 💡 *Envie de voir plus de projets ? La plupart sont en repos privés !*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
 
