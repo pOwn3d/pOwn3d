@@ -82,26 +82,9 @@ const christophe = {
   </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
-
-## Featured Projects
-
 <div align="center">
-  <a href="https://github.com/pOwn3d/HA_IFRAME">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=HA_IFRAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/pOwn3d/KIDS_EXPO">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=KIDS_EXPO&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pOwn3d&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
 </div>
-
-<div align="center">
-  <a href="https://github.com/pOwn3d/BOOKY_OC">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=BOOKY_OC&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-> 💡 *Envie de voir plus de projets ? La plupart sont en repos privés !*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
 
