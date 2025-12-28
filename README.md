@@ -67,9 +67,7 @@ const christophe = {
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pOwn3d&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
-  </a>
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=pOwn3d&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
