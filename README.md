@@ -62,12 +62,12 @@ const christophe = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pOwn3d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pOwn3d&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pOwn3d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&v=1"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pOwn3d&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=pOwn3d&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=pOwn3d&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Streak Stats"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
