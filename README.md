@@ -62,8 +62,8 @@ const christophe = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pOwn3d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pOwn3d&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pOwn3d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pOwn3d&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -82,37 +82,25 @@ const christophe = {
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pOwn3d&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pOwn3d&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
 
 ## Featured Projects
 
 <div align="center">
   <a href="https://github.com/pOwn3d/Mon-panier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pOwn3d&repo=Mon-panier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=Mon-panier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/pOwn3d/GitSnap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pOwn3d&repo=GitSnap&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=GitSnap&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/pOwn3d/HA_IFRAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pOwn3d&repo=HA_IFRAME&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/pOwn3d/panneau-solaire-pwa">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=panneau-solaire-pwa&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/pOwn3d/SAAS_Quick_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pOwn3d&repo=SAAS_Quick_api&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/pOwn3d/CUISINE_OMEGA">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pOwn3d&repo=CUISINE_OMEGA&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
