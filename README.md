@@ -72,15 +72,7 @@ const christophe = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
 
-## Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pOwn3d/pOwn3d/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pOwn3d/pOwn3d/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/pOwn3d/pOwn3d/output/github-snake.svg">
-  </picture>
-</div>
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pOwn3d&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
