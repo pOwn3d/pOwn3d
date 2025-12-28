@@ -75,7 +75,7 @@ const christophe = {
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pOwn3d&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pOwn3d&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=1" alt="Activity Graph"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line">
