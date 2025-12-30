@@ -85,17 +85,17 @@ const christophe = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/code.png" width="60"/><br>
+      <h1>💻</h1>
       <b>Full Stack Dev</b><br>
       <sub>Web & Mobile Applications</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/management.png" width="60"/><br>
+      <h1>📊</h1>
       <b>Project Management</b><br>
       <sub>Leading teams to success</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/teacher.png" width="60"/><br>
+      <h1>🎓</h1>
       <b>Mentoring</b><br>
       <sub>OpenClassrooms Mentor</sub>
     </td>
