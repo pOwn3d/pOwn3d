@@ -53,7 +53,18 @@ const christophe = {
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&theme=dark" alt="Tools"/>
 <br><br>
+<img src="https://skillicons.dev/icons?i=linux,nginx,aws,gcp,cloudflare&theme=dark" alt="Cloud & DevOps"/>
+
+### Databases & Storage
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,redis&theme=dark" alt="Databases"/>
+
+### CI/CD & Testing
+<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,jest,cypress&theme=dark" alt="CI/CD"/>
+
+### Other Tools
+<img src="https://skillicons.dev/icons?i=postman,npm,yarn,webpack,tailwind&theme=dark" alt="Other Tools"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=notion,obsidian,markdown,bash,regex&theme=dark" alt="Productivity"/>
 
 </div>
 
